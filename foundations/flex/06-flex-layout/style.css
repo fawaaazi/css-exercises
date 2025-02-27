@@ -24,3 +24,43 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
+
+a{
+  text-decoration: none;
+  color:black;
+}
+
+li{
+  font-family: Roboto, sans-serif;
+  border: none;
+  list-style-type: none;
+}
+.right-links{
+  display: flex;
+  justify-content:flex-end;
+  flex: auto;
+  gap: 8px;
+  padding: 8px;
+
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.left-links{
+  display: flex;
+  justify-content:flex-start;
+  flex: auto;
+  gap: 8px;
+  padding: 8px;
+}
+
+.content{
+  
+}
+
+
+

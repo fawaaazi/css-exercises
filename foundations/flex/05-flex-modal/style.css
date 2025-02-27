@@ -67,3 +67,18 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.modal{
+  display: flex;
+  padding: 16px;
+  gap: 16px;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.icon{
+  flex-shrink: 0;
+}
